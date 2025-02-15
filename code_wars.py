@@ -171,6 +171,10 @@ def sort_array(source_array):
 
 print(sort_array([5, 3, 2, 8, 1, 4]))
 
+
+# def find_short(s):
+#     return min(len(x) for x in s.split())
+
 # another example
 # def sort_array(source_array):
 #     odds = sorted((x for x in source_array if x % 2 != 0), reverse=True)
